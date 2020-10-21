@@ -1,0 +1,89 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #eeeeee;
+  background-image: url("https://www.transparenttextures.com/patterns/dark-brick-wall.png");
+}
+
+header {
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.3);
+  background-color: #222831;
+  color: #00adb5;
+}
+
+label {
+  color: #00adb5;
+  margin: 0 10px;
+}
+
+form.createContact {
+  position: relative;
+  width: 480px;
+  margin: 30px auto 20px auto;
+  background: #222831;
+  padding: 15px;
+  border-radius: 7px;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+form.createContact input {
+  width: 100%;
+  border: none;
+  background-color: #222831;
+  color: #00adb5;
+  padding: 6px;
+  outline: none;
+  font-size: 1.2em;
+  font-family: inherit;
+  resize: none;
+}
+
+form.createContact button {
+  position: absolute;
+  background-color: #00adb5;
+  right: 30px;
+  bottom: 20px;
+  color: #393e46;
+  border-radius: 50%;
+  width: 38px;
+  height: 35px;
+}
+form.createContact button:hover {
+  background-color: #eeeeee;
+}
+
+div.contactCard button {
+  position: relative;
+  background-color: #00adb5;
+  color: #393e46;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+}
+
+.contactCard {
+  text-align: center;
+  display: inline-block;
+  width: 300px;
+  margin: 3% 1.3%;
+  height: auto;
+  border-radius: 10px;
+  background-color: #222831;
+  color: #00adb5;
+  padding: 6px;
+  outline: none;
+  font-size: 1.2em;
+  font-family: inherit;
+  resize: none;
+}
+.contactCard img {
+  width: 60%;
+}

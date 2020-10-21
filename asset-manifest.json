@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Contact-List-ReactJS/static/js/main.2815a4d7.chunk.js",
+    "main.js.map": "/Contact-List-ReactJS/static/js/main.2815a4d7.chunk.js.map",
+    "runtime-main.js": "/Contact-List-ReactJS/static/js/runtime-main.210d9462.js",
+    "runtime-main.js.map": "/Contact-List-ReactJS/static/js/runtime-main.210d9462.js.map",
+    "static/js/2.7552d343.chunk.js": "/Contact-List-ReactJS/static/js/2.7552d343.chunk.js",
+    "static/js/2.7552d343.chunk.js.map": "/Contact-List-ReactJS/static/js/2.7552d343.chunk.js.map",
+    "index.html": "/Contact-List-ReactJS/index.html",
+    "precache-manifest.0e9f1db8c2d30a02ecbb67b1f6317f58.js": "/Contact-List-ReactJS/precache-manifest.0e9f1db8c2d30a02ecbb67b1f6317f58.js",
+    "service-worker.js": "/Contact-List-ReactJS/service-worker.js",
+    "static/js/2.7552d343.chunk.js.LICENSE.txt": "/Contact-List-ReactJS/static/js/2.7552d343.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.210d9462.js",
+    "static/js/2.7552d343.chunk.js",
+    "static/js/main.2815a4d7.chunk.js"
+  ]
+}
