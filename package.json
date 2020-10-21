@@ -1,0 +1,39 @@
+{
+  "name": "Contact-list",
+  "version": "1.0.0",
+  "homepage": "https://princeraaaj.github.io/Contact-List-ReactJS",
+  "description": "Contact-list",
+  "keywords": [
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "@material-ui/lab": "4.0.0-alpha.56",
+    "avataaars": "1.2.1",
+    "express": "4.17.1",
+    "gh-pages": "^3.1.0",
+    "mongoose": "5.10.5",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.3"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
